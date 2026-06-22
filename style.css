@@ -15,6 +15,19 @@ header p {
     font-size: 1.5em;
 }
 
+.leaderboard {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.leaderboard img {
+    width: 80%;
+    height: auto;
+}
+
 .images {
     width: 100%;
     display: flex;
